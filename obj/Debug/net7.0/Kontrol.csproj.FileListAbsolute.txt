@@ -1,0 +1,15 @@
+C:\Users\Serg\Desktop\Учуба\Kontrol\bin\Debug\net7.0\Kontrol.exe
+C:\Users\Serg\Desktop\Учуба\Kontrol\bin\Debug\net7.0\Kontrol.deps.json
+C:\Users\Serg\Desktop\Учуба\Kontrol\bin\Debug\net7.0\Kontrol.runtimeconfig.json
+C:\Users\Serg\Desktop\Учуба\Kontrol\bin\Debug\net7.0\Kontrol.dll
+C:\Users\Serg\Desktop\Учуба\Kontrol\bin\Debug\net7.0\Kontrol.pdb
+C:\Users\Serg\Desktop\Учуба\Kontrol\obj\Debug\net7.0\Kontrol.csproj.AssemblyReference.cache
+C:\Users\Serg\Desktop\Учуба\Kontrol\obj\Debug\net7.0\Kontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serg\Desktop\Учуба\Kontrol\obj\Debug\net7.0\Kontrol.AssemblyInfoInputs.cache
+C:\Users\Serg\Desktop\Учуба\Kontrol\obj\Debug\net7.0\Kontrol.AssemblyInfo.cs
+C:\Users\Serg\Desktop\Учуба\Kontrol\obj\Debug\net7.0\Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\Serg\Desktop\Учуба\Kontrol\obj\Debug\net7.0\Kontrol.dll
+C:\Users\Serg\Desktop\Учуба\Kontrol\obj\Debug\net7.0\refint\Kontrol.dll
+C:\Users\Serg\Desktop\Учуба\Kontrol\obj\Debug\net7.0\Kontrol.pdb
+C:\Users\Serg\Desktop\Учуба\Kontrol\obj\Debug\net7.0\Kontrol.genruntimeconfig.cache
+C:\Users\Serg\Desktop\Учуба\Kontrol\obj\Debug\net7.0\ref\Kontrol.dll
